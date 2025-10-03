@@ -35,6 +35,20 @@ You can switch the exchange by updating the `EXCHANGE` variable in `config.py`:
 
 ```python
 EXCHANGE = "binance"  # or "bybit"
+```
+
+## ⚙️ Configuration (`config.py`)
+
+This project requires a `config.py` file for API credentials and exchange selection. **Do not push your real API keys** to GitHub.
+
+Create a `config.py` file in the root directory like this:
+
+```python
+# config.py
+API_KEY = "YOUR_API_KEY"       # Replace with your own API key
+API_SECRET = "YOUR_API_SECRET" # Replace with your own API secret
+EXCHANGE = "bybit"             # Options: "bybit" or "binance"
+```
 
 ## File Structure
 
