@@ -129,6 +129,9 @@ streamlit run ui.py
 
 -Displays success or error messages clearly
 
+![Trading Bot UI](images/Screenshot 2025-10-04 013553.png "Bot UI")
+
+
 ### Notes
 
 - STOP-LIMIT orders may fail on testnet if triggerPrice is invalid relative to the current market price. This is expected behavior from the exchange, not a bot issue.
