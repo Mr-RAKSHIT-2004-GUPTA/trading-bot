@@ -112,7 +112,7 @@ Dry Run: Order not sent
 ```bash
 Run:
 
-python main.py
+streamlit run ui.py
 ```
 
 ## UI Features
