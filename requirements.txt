@@ -1,2 +1,19 @@
 # requirements.txt
-python-binance
+# Core
+python-dotenv==1.0.1
+colorama==0.4.6
+requests==2.31.0
+
+# Binance & Bybit APIs
+python-binance==1.0.16
+pybit==2.0.0
+
+# UI
+streamlit==1.30.0
+
+# Utilities
+pandas==2.1.1
+numpy==1.26.0
+
+# Logging & Debugging
+loguru==0.7.0
