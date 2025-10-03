@@ -129,7 +129,7 @@ streamlit run ui.py
 
 -Displays success or error messages clearly
 
-![Trading Bot Screenshot](images/Screenshot2025-10-04013553.png)
+![Trading Bot Screenshot](images/ui1.png)
 
 
 
