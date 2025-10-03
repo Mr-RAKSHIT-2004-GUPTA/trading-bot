@@ -131,7 +131,11 @@ streamlit run ui.py
 
 ![Trading Bot Screenshot](images/ui1.png)
 
+### placing order
+![Trading Bot Screenshot](images/ui2.png)
 
+### cli output
+![Trading Bot Screenshot](images/cli.png)
 
 ### Notes
 
